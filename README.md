@@ -4,6 +4,8 @@ A Linux utility that enables three-finger selection gestures on touchpads. This 
 
 Created with the help of AI.
 
+This is mostly for myself so I can reuse it later.. 
+
 ## Features
 
 - Select text using three-finger gestures (like MacOS).
