@@ -21,12 +21,12 @@ Created with the help of AI.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/three-finger-select.git
-   cd three-finger-select
-   
-   Install dependencies:
-   pip install evdev pynput
+```bash
+git clone https://github.com/sirhaffy/three-finger-select.git
+cd three-finger-select
+
+Install dependencies:
+pip install evdev pynput
 ```
 
 2. Make the scripts executable:
