@@ -53,4 +53,7 @@ cp three-finger-select.desktop ~/.config/autostart/
 
 5. Usage
 The script will start automatically when you log in. You can also run it manually:
+```bash
+./start-three-finger.sh
+```
 
